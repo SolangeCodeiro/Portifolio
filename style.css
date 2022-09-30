@@ -10,9 +10,9 @@ body {
     height: 50vh;
     width: 100vw;
     background-color: #0e5a798e;
-    background-image: url('./img/');
+    background-image: url('./img/imagem5.png');
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: right;
     background-size: contain;
     display: flex;
     flex-direction: column;
